@@ -6,7 +6,7 @@
 using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
 {
-	cout << "TestApp" << endl;
+	cout << "TestApp1" << endl;
 	getchar();
 	return 0;
 }
